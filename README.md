@@ -47,7 +47,7 @@ This new boutique fitness studio needs a relational database model to keep track
 
 ## Queries: 
 
-
+![Fitness Studio Data Model](Images/matrix.png)
 
 Query 1: Which trainers have managed more than 10 total attendees across all their classes?
 
@@ -114,5 +114,5 @@ Justification:This allows management to distinguish active members from those wh
 
 Name of Database: ns_Sp26_71552_Group5
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+Additional information: All of our created queries can be called using this format: CALL TP_Q1();, CALL TP_Q2();, CALL TP_Q3();, and so on.
 
