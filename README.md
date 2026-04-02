@@ -24,7 +24,7 @@ This new boutique fitness studio needs a relational database model to keep track
 
 ## Data Model:
 
-![Fitness Studio Data Model](FitnessStudioModel.png)
+![Fitness Studio Data Model](Images/FitnessStudioModel.png)
 
 
 ## Data Dictionary:
