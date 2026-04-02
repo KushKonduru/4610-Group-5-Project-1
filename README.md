@@ -12,7 +12,7 @@
 
 1. Brian Michaels
 2. Kush Konduru
-3. Peirece Jennnings
+3. Pierce Jennnings
 4. Simran Kansara
 5. Rohan Reddy
 
