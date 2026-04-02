@@ -69,7 +69,7 @@ Justification: These guests represent the warmest leads for the sales team. Mana
 
 Query 4: Write a query that returns each member's first and last name, the names of any guests they have brought in, and the total number of guest passes issued per guest, including members who have never brought a guest.
 
-Justification:This helps management identify which members are actively using their guest pass privileges, which can inform decisions around upselling premium memberships or rewarding highly engaged members who are bringing in potential new clients.
+Justification: This helps management identify which members are actively using their guest pass privileges, which can inform decisions around upselling premium memberships or rewarding highly engaged members who are bringing in potential new clients.
 
 ![Fitness Studio Data Model](Images/Query4.png)
 
@@ -106,7 +106,7 @@ Justification: A fitness studio manager would want a complete trainer directory 
 
 Query 10: Write a query that returns the member ID, first name, last name, and email of all members who have at least one attendance log on record.
 
-Justification:This allows management to distinguish active members from those who have never checked into a class, which is critical for retention outreach and identifying at-risk memberships before they lapse.
+Justification: This allows management to distinguish active members from those who have never checked into a class, which is critical for retention outreach and identifying at-risk memberships before they lapse.
 
 ![Fitness Studio Data Model](Images/Query10.png)
 
