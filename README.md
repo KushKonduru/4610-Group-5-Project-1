@@ -51,11 +51,11 @@ This new boutique fitness studio needs a relational database model to keep track
 
 Query 1: Which trainers have managed more than 10 total attendees across all their classes?
 
-Justification: This identifies top-tier talent. By joining tables and using aggregate functions, management can see who is driving the most studio volume.
+Justification: This query allows management to evaluate each trainer's performance when it comes to optimizing class capacity.
 
 ![Fitness Studio Data Model](Images/Query1.png)
 
-Query 2: List all equipment purchased more than three years ago that is located in high-temperature rooms. (high temperature > 75 degrees)
+Query 2: List all equipment purchased more 250 days ago that is located in high-temperature rooms. (high temperature > 75 degrees)
 
 Justification: Heat and heavy use can accelerate equipment wear. This query acts as a proactive maintenance tool to prevent injury or unexpected repair costs by identifying gear likely to fail
 
@@ -67,15 +67,16 @@ Justification: These guests represent the warmest leads for the sales team. Mana
 
 ![Fitness Studio Data Model](Images/Query3.png)
 
-Query 4: Which studio rooms are currently hosting classes that are at or near their maximum capacity?
+Query 4: Write a query that returns each member's first and last name, the names of any guests they have brought in, and the total number of guest passes issued per guest, including members who have never brought a guest.
 
-Justification: If certain rooms are consistently at 100% capacity, it indicates a missed opportunity for revenue. Management might consider expanding those rooms or moving high-demand classes to larger spaces (square footage).
+Justification:This helps management identify which members are actively using their guest pass privileges, which can inform decisions around upselling premium memberships or rewarding highly engaged members who are bringing in potential new clients.
 
 ![Fitness Studio Data Model](Images/Query4.png)
 
 Query 5: List the studio’s suppliers in the order of quantity of equipment provided to our studio?
 
 Justification: Over-reliance on a single supplier can be a business risk if that supplier faces delays or price hikes. This helps management diversify their vendor list for better bargaining power
+
 
 ![Fitness Studio Data Model](Images/Query5.png)
 
