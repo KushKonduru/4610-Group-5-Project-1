@@ -85,19 +85,27 @@ Justification: Members who are not currently paying for a membership are an easy
 
 ![Fitness Studio Data Model](Images/Query6.png)
 
-Write a query to list the number of total classes the fitness studio offers for each category.
+Query 7: Write a query to list the number of total classes the fitness studio offers for each category.
 
 Justification: A fitness studio manager would benefit from knowing the number of classes offered per category because it provides a clear snapshot of whether the studio's schedule is balanced and aligned with member demand. If certain categories are over- or under-represented, the manager can make informed decisions about adding, removing, or redistributing classes to better serve the membership base. This insight also supports staffing decisions, ensuring that trainer specialties and availability are proportionate to the volume of classes being offered in each category.
 
 ![Fitness Studio Data Model](Images/Query7.png)
 
+Query 8: Which members have issued guest passes, who were those passes given to, and are those passes currently active or expired — and what membership tier does the issuing member hold?
 
+Justification: A fitness studio manager would want this information to monitor whether the guest pass program is being used as intended and exclusively by eligible membership tiers. Guests with recently expired passes also represent strong conversion opportunities, as they have already demonstrated interest in the studio.
 
 ![Fitness Studio Data Model](Images/Query8.png)
 
-![Fitness Studio Data Model](Images/Query8.png)
+Query 9: Write a query to list the directory of staffed trainers, highlighting each of their ID, name, email, and specialty.
+
+Justification: A fitness studio manager would want a complete trainer directory to have a centralized reference for all staff contact information and specialties, making it easy to assign trainers to classes that align with their expertise. This also serves as a quick resource when members inquire about which trainer is best suited for their fitness goals.
 
 ![Fitness Studio Data Model](Images/Query9.png)
+
+Query 10: Write a query that returns the member ID, first name, last name, and email of all members who have at least one attendance log on record.
+
+Justification:This allows management to distinguish active members from those who have never checked into a class, which is critical for retention outreach and identifying at-risk memberships before they lapse.
 
 ![Fitness Studio Data Model](Images/Query10.png)
 
