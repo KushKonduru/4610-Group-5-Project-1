@@ -10,11 +10,11 @@
 71552 Group 5
 ##  Team Members:
 
-1. Brian Michaels https://github.com/bmichaels914/4610-Group-5-Project-1/blob/55e44c0680e301e1a109035a9557309b69cff217/README.md
+1. Brian Michaels - https://github.com/bmichaels914/4610-Group-5-Project-1/blob/55e44c0680e301e1a109035a9557309b69cff217/README.md
 3. Kush Konduru
 4. Pierce Jennings - https://github.com/PierceJ-MIS/4610-Group-5-Project-1/blob/c1464054eed714c5429824d215c0d16218bbc2db/README.md 
 5. Simran Kansara
-6. Rohan Reddy
+6. Rohan Reddy - https://github.com/rohanreddy0205-debug/4610-Group-5-Project-1/blob/ab6f804d2c6ac0af37a628b9b025cb2357b9732c/README.md
 
 ## Problem Description: 
 
